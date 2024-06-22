@@ -4,4 +4,4 @@ spring:
     url: jdbc:mysql://localhost:3308/mydb?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
-    password: 0Scorpio1
+    password: root
